@@ -17,7 +17,7 @@ SECRET_KEY = 'django-insecure-5davm!2#vrnhrui+d)ch2@!52x&(i4gvnqyip*b7!ge%n(97wz
 DEBUG = False
 
 ALLOWED_HOSTS = ["127.0.0.1", "localhost",
-                 'st-jude-management-system.herokuapp.com']
+                 'st-jude-management-system.herokuapp.com', 'st-jude-client.herokuapp.com']
 
 
 # Application definition
