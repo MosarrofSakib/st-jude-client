@@ -1,0 +1,35 @@
+.patients__container {
+    margin-left: 13%;
+    background-color: red;
+    width: 100%;
+    height: 95%;
+    padding: 10px;
+}
+
+.patients__row1,
+.patients__row2 {
+    width: 68.7vw !important;
+}
+
+.patients__addPatientButton {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-end;
+}
+
+.patients__row2 {
+    height: 85vh !important;
+    overflow-y: scroll;
+}
+
+.patients__submit {
+    width: 100% !important;
+}
+
+.patients__form {
+    width: 470px !important;
+}
+
+.treatment__form {
+    width: 20% !important;
+}

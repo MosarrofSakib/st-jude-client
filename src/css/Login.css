@@ -1,0 +1,17 @@
+.container {
+    height: 94vh !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+form {
+    width: 600px !important;
+    background-color: #f8f9fa;
+    padding: 20px 30px;
+    border-radius: 20px;
+}
+
+form > small {
+    margin-left: 10px;
+}

@@ -1,0 +1,12 @@
+.home__mainRow {
+    height: 93vh !important;
+}
+
+.patients__card {
+    height: 92vh;
+    overflow: scroll;
+}
+
+.patients__card::-webkit-scrollbar {
+    display: none;
+}

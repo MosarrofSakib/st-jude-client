@@ -1,0 +1,36 @@
+.appointments__container {
+    padding-top: 10px;
+
+    display: flex;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
+}
+
+.appointments__row1,
+.appointments__row2 {
+    width: 68.7vw !important;
+}
+
+.appointments__addPatientButton {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-end;
+}
+
+.appointments__row2 {
+    height: 85vh !important;
+    overflow-y: scroll;
+}
+
+.appointments__submit {
+    width: 100% !important;
+}
+
+.appointments__form {
+    width: 470px !important;
+}
+
+.appointments__doneButton {
+    margin-bottom: 8px !important;
+}

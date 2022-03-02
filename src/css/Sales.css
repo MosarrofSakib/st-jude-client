@@ -1,0 +1,37 @@
+.sales__container {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    justify-content: start !important;
+}
+
+.sales__row1 {
+    width: 100% !important;
+    height: auto !important;
+    padding-top: 10px;
+}
+
+.sales__row2 {
+    width: 100% !important;
+    height: 80% !important;
+    padding-top: 10px !important;
+}
+
+.sales__row2Column {
+    height: 60% !important;
+    overflow: scroll !important;
+}
+
+.sales__row2Column::-webkit-scrollbar {
+    display: none !important;
+}
+
+.sales__h1 {
+    text-align: center;
+}
+
+.sales__totalEarn {
+    margin-left: 10px !important;
+    margin-top: 5px !important;
+    font-weight: bold;
+}

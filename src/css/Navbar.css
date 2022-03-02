@@ -1,0 +1,8 @@
+.nav-item {
+    margin-right: 5px;
+}
+
+.nav-item:hover {
+    background-color: gray;
+    transition: 0.5s ease-in;
+}

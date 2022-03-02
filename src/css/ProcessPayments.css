@@ -1,0 +1,18 @@
+.processPayments__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.processPayments__row1 {
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+}
+
+.processPayments__col1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
